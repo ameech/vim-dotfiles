@@ -13,7 +13,6 @@ Bundle 'bling/vim-airline'
 Bundle 'chriskempson/tomorrow-theme', {'rtp': 'vim/'}
 Bundle 'Raimondi/delimitMate'
 Bundle 'scrooloose/nerdtree'
-Bundle 'tpope/vim-fugitive'
 
 "" Settings
 filetype plugin indent on
